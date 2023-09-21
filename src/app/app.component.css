@@ -1,0 +1,28 @@
+.scan-section {
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+.form-section {
+  padding-top: 150px;
+  margin: auto;
+  width: 75%;
+  text-align: center;
+}
+
+.blanc {
+  background-color: white;
+}
+
+.green {
+  background-color: darkolivegreen;
+}
+
+.red {
+  background-color: red;
+}
+
+.orange {
+  background-color: orange;
+}
